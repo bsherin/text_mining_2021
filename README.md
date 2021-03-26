@@ -1,6 +1,6 @@
 # text_mining_2021
 
-These are some initial notes
+This contains just the environment for the course
 
 # To launch in binder:
 

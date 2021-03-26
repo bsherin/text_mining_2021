@@ -1,22 +1,22 @@
-# beautifulsoup4
-# fuzzywuzzy
-# gensim
+beautifulsoup4
+fuzzywuzzy
+gensim
 jupyter
 jupyterlab
 jupyter_nbextensions_configurator
-# markdown
+markdown
 matplotlib
 nbgitpuller
-# networkx
+networkx
 nltk
 numpy
 pandas
-# regex
+regex
 scipy
-# scikit-learn
+scikit-learn
 # spacy
 textblob
-# tweepy
+tweepy
 wikipedia-api
 # wordcloud
-# yellowbrick
+yellowbrick
