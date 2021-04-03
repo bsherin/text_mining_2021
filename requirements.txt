@@ -4,6 +4,7 @@ gensim
 jupyter
 jupyterlab
 jupyter_nbextensions_configurator
+lckr-jupyterlab-variableinspector
 markdown
 matplotlib
 nbgitpuller
